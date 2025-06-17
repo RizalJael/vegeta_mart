@@ -1,4 +1,3 @@
-// lib/main.dart
 import 'package:flutter/material.dart';
 import 'package:vegeta_mart/models/vegetable.dart';
 import 'package:vegeta_mart/widgets/vegetable_card.dart';
@@ -132,7 +131,7 @@ class _HomePageState extends State<HomePage> {
         centerTitle: true,
         actions: [
           IconButton(
-            icon: const Icon(Icons.search), // Ikon search
+            icon: const Icon(Icons.search),
             onPressed: () {
               ScaffoldMessenger.of(context).showSnackBar(
                 const SnackBar(content: Text('Membuka pencarian...')),
