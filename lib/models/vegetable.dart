@@ -1,4 +1,3 @@
-// lib/models/vegetable.dart
 class Vegetable {
   final int id;
   final String name;
