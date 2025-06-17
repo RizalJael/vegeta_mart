@@ -30,12 +30,22 @@ Aplikasi ini mencakup beberapa fitur utama:
 ## Tangkapan Layar
 
 Berikut adalah beberapa tangkapan layar dari aplikasi Vegeta Mart:
-
-**Halaman Utama (Daftar Sayuran):**
-![Screenshot Halaman Utama](https://github.com/rizaljael/vegeta_mart/blob/main/screenshots/Screenshot_1750124512.png?raw=true)
-**Halaman Detail Sayuran:**
-![Screenshot Halaman Detail](https://github.com/rizaljael/vegeta_mart/blob/main/screenshots/Screenshot_1750124523.png?raw=true)
-![Screenshot Halaman Detail](https://github.com/rizaljael/vegeta_mart/blob/main/screenshots/Screenshot_1750124523.png?raw=true)
+<table>
+  <tr>
+    <td align="center">
+      <b>Halaman Utama</b><br/>
+      <img src="https://github.com/rizaljael/vegeta_mart/blob/main/screenshots/Screenshot_1750124512.png?raw=true" width="250px" alt="Screenshot Halaman Utama">
+    </td>
+    <td align="center">
+      <b>Daftar Sayuran (Scroll)</b><br/>
+      <img src="https://github.com/rizaljael/vegeta_mart/blob/main/screenshots/Screenshot_1750124523.png?raw=true" width="250px" alt="Screenshot Daftar Sayuran">
+    </td>
+    <td align="center">
+      <b>Halaman Detail</b><br/>
+      <img src="https://github.com/rizaljael/vegeta_mart/blob/main/screenshots/Screenshot_1750124533.png?raw=true" width="250px" alt="Screenshot Halaman Detail">
+    </td>
+  </tr>
+  </table>
 
 ## Teknologi yang Digunakan
 
